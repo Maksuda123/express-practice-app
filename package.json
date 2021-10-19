@@ -1,0 +1,16 @@
+{
+  "name": "expressappforpractice",
+  "version": "1.0.0",
+  "description": "FOr Learning perpose",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Mila",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.13"
+  }
+}
